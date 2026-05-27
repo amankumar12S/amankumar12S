@@ -40,7 +40,7 @@
       <ul>
         <li><strong>Research implementation projects in:</strong>
           <ul>
-            <li>Medical Imaging (SafeMed-SSL)</li>
+            <li>Medical Imaging </li>
             <li>Vision Transformers & Deep Delta Learning</li>
             <li>Remote Sensing AI</li>
             <li>OCR Systems & Multimodal AI</li>
