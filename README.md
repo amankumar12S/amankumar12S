@@ -2,7 +2,7 @@
   <img src="https://images.unsplash.com/photo-1462331940025-496dfbfc7564?q=80&w=1500&h=400&auto=format&fit=crop" alt="Space Banner" width="100%" style="border-radius: 10px;">
 </div>
 
-<h1 align="center">Hi there, I'm Aman Kumar 👋</h1>
+<h1 align="center">Hi there, I'm Aman Kumar </h1>
 <h3 align="center">Undergraduate AI Researcher | CV, NLP & Deep Learning</h3>
 
 ---
