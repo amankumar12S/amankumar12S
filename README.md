@@ -15,7 +15,7 @@
 <table width="100%" border="1" bordercolor="#30363D" style="border-collapse: collapse;">
   <tr>
     <td width="60%" valign="top">
-      <br><strong>Co-Founder & Lead AI Researcher @ <a href="https://github.com/HaloMind-Research">Halo Mind Research Group</a></strong><br><br>
+      <br><strong>Co-Founder & Lead AI Researcher @ <a href="https://halomind-research.github.io/">Halo Mind Research Group</a></strong><br><br>
       I engineer highly robust, hardware-efficient predictive pipelines with a focus on Deep Learning, advanced sequence modeling, and mathematically sound uncertainty quantification. My primary objective is bridging the gap between theoretical deep learning and scalable, real-world deployment for high-stakes environments.<br><br>
       Currently holding AI Research Internships at the ISI Kolkata and the Uni. of Salford, I oversee the end-to-end architecture of complex models.<br><br>
       Whether I am building frameworks for space AI, medical vision or optimizing spatial-temporal architectures for real-time forecasting, I design systems built for absolute resilience and computational efficiency.<br><br>
@@ -64,3 +64,13 @@
 </div>
 
 <br>
+
+<br>
+<hr style="border: 1px solid #30363D;">
+<br>
+
+<p>
+  <strong>Reach me at:</strong> <a href="mailto:ak2281198@gmail.com">ak2281198@gmail.com</a><br><br>
+  <strong>Personal Portfolio:</strong> <a href="https://amankumar12s.github.io/">amankumar12s.github.io</a><br><br>
+  <strong>Research Group Page:</strong> <a href="https://halomind-research.github.io/">halomind-research.github.io</a>
+</p>
