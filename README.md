@@ -11,12 +11,15 @@
 </div>
 <br>
 
-<h2>👨‍💻 About Me</h2>
+<h2> About Me</h2>
 <table width="100%" border="1" bordercolor="#30363D" style="border-collapse: collapse;">
   <tr>
     <td width="60%" valign="top">
       <br>
-      <strong>Undergraduate AI Researcher & Team Lead</strong><br><br>
+      <strong>Co-Founder & Lead AI Researcher @ <a href="https://halomind-research.github.io/">Halo Mind Research Group</a></strong><br><br>
+I engineer highly robust, hardware-efficient predictive pipelines with a focus on Deep Learning, advanced sequence modeling, and secure anomaly rejection.<br><br>
+<em>All of my active research and production codebases are hosted under the <strong> <a href="https://github.com/HaloMind-Research"> </strong>.
+  (See my pinned repositories below for a small view of my works).</em><br><br>
       <ul>
         <li><strong>Medical AI & Vision:</strong> Leading research in medical image segmentation and brain tumor classification.</li>
         <li><strong>Historical Script OCR:</strong> Engineering an end-to-end CV/NLP architecture for degraded ancient Ashokan Brahmi script.</li>
@@ -32,7 +35,7 @@
 
 <br>
 
-<h2>📚 Publications & Research Focus</h2>
+<h2> Publications & Research Focus</h2>
 <table width="100%" border="1" bordercolor="#30363D" style="border-collapse: collapse;">
   <tr>
     <td valign="top">
@@ -40,16 +43,11 @@
       <ul>
         <li><strong>Research implementation projects in:</strong>
           <ul>
-            <li>Medical Imaging </li>
-            <li>Vision Transformers & Deep Delta Learning</li>
-            <li>Remote Sensing AI</li>
-            <li>OCR Systems & Multimodal AI</li>
-          </ul>
-        </li>
+        <li><strong>Medical Vision & Image Segmentation:</strong> Engineering geometric residual learning frameworks (DDL-Mamba) and Attention-Enhanced Swin Transformers for robust anomaly classification.</li>
         <br>
-        <li><strong>Focused on:</strong> Building highly efficient, hardware-optimized deep learning architectures.</li>
+        <li><strong>NLP & Clinical Summarization:</strong> Leading neural extraction pipelines using BERTopic/SBERT, actively developing solutions for complex clinical case report summarization.</li>
         <br>
-        <li><strong>Goal:</strong> International Master's / Direct PhD in AI & Deep Learning.</li>
+        <li><strong>Cyber-Physical Resilience:</strong> Designing intrinsic neural firewalls and anomaly rejection frameworks for high-dimensional, real-time spatial-temporal forecasting.</li>
         <br>
         <li><strong>Recent Acceptances:</strong> IEEE SPACE 2026, IEEE GCON 2026, IEEE CONECCT 2026.</li>
       </ul>
@@ -60,14 +58,9 @@
 
 <br>
 
-<h2 align="center">🛠️ Tech Stack & Tools</h2>
+<h2 align="center"> Tech Stack & Tools</h2>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=py,c,java,pytorch,tensorflow,opencv,git,linux&theme=dark" alt="Skill Icons" />
 </div>
 
 <br>
-
-<h2 align="center">📊 GitHub Analytics</h2>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amankumar12S&theme=tokyonight&hide_border=true" alt="GitHub Streak">
-</div>
