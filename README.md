@@ -22,10 +22,6 @@ I engineer highly robust, hardware-efficient predictive pipelines with a focus o
   
   (See my pinned repositories below for a small view of my works).</em><br><br>
       <ul>
-        <li><strong>Medical AI & Vision:</strong> Leading research in medical image segmentation and brain tumor classification.</li>
-        <li><strong>Historical Script OCR:</strong> Engineering an end-to-end CV/NLP architecture for degraded ancient Ashokan Brahmi script.</li>
-        <li><strong>Space Weather:</strong> Co-authored a CNN-DDL architecture for real-time Ionospheric TEC forecasting.</li>
-        <li><strong>NLP:</strong> Exploring semantic shifts in large-scale climate discourse.</li>
       </ul>
     </td>
     <td width="40%" align="center" valign="middle">
