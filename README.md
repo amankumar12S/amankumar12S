@@ -21,7 +21,7 @@
       Whether I am building frameworks for space AI, medical vision or optimizing spatial-temporal architectures for real-time forecasting, I design systems built for absolute resilience and computational efficiency.<br><br>
       <em>All of my active research and production codebases are hosted under the <strong><a href="https://github.com/HaloMind-Research">Halo Mind Research Group</strong>.
         
-  (See my pinned repositories below for a curated view of my core architectures).</em><br><br>
+  </em><br><br>
   
   (See my pinned repositories below for a small view of my works).</em><br><br>
       <ul>
