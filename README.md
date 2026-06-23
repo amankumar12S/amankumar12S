@@ -18,7 +18,7 @@
       <br>
       <strong>Co-Founder & Lead AI Researcher @ <a href="https://halomind-research.github.io/">Halo Mind Research Group</a></strong><br><br>
 I engineer highly robust, hardware-efficient predictive pipelines with a focus on Deep Learning, advanced sequence modeling, and secure anomaly rejection.<br><br>
-<em>All of my active research and production codebases are hosted under the <strong> <a href="https://github.com/HaloMind-Research"> </strong>.
+<em>All of my active research and production codebases are hosted under the <strong> <a href="https://github.com/HaloMind-Research">Halo Mind Research Group </strong>.
   (See my pinned repositories below for a small view of my works).</em><br><br>
       <ul>
         <li><strong>Medical AI & Vision:</strong> Leading research in medical image segmentation and brain tumor classification.</li>
