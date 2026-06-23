@@ -16,7 +16,7 @@
   <tr>
     <td width="60%" valign="top">
       <br><strong>Co-Founder & Lead AI Researcher @ <a href="https://github.com/HaloMind-Research">Halo Mind Research Group</a></strong><br><br>
-      I engineer highly robust, hardware-efficient predictive pipelines with a focus on Deep Delta Learning (DDL), advanced sequence modeling (Vision Mamba), and mathematically provable uncertainty quantification. My primary objective is bridging the gap between theoretical deep learning and scalable, real-world deployment for high-stakes environments.<br><br>
+      I engineer highly robust, hardware-efficient predictive pipelines with a focus on Deep Learning, advanced sequence modeling, and mathematically sound uncertainty quantification. My primary objective is bridging the gap between theoretical deep learning and scalable, real-world deployment for high-stakes environments.<br><br>
       Currently holding AI Research Internships at the ISI Kolkata and the Uni. of Salford, I oversee the end-to-end architecture of complex models.<br><br>
       Whether I am building frameworks for space AI, medical vision or optimizing spatial-temporal architectures for real-time forecasting, I design systems built for absolute resilience and computational efficiency.<br><br>
       <em>All of my active research and production codebases are hosted under the <strong><a href="https://github.com/HaloMind-Research">Halo Mind Research Group</strong>.
