@@ -23,7 +23,7 @@
         
   </em><br><br>
   
-  (See my pinned repositories below for a small view of my works).</em><br><br>
+  (**See my pinned repositories below for a small view of my works**).</em><br><br>
       <ul>
       </ul>
     </td>
